@@ -1,5 +1,6 @@
 {
     "name": "ht123/for-test-haha",
+    "description": "desc1",
     "type": "library",
     "require": {}
 }
